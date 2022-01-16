@@ -1,0 +1,2 @@
+# Banking-Application
+I developed a Project on Banking Application by using Menu-Based Programming, OOP Concepts of C++ and File Handling Concepts during Class-12. This Project also involves Basic Concepts of Computer Graphics as well. This Application is developed to open using username and password. We have Bank Transactions such as Create an Account by entering the Account Holder's Details, Open an Account using the Account Number, View All Transactions, Make Transactions: Deposit/Withdraw Money, Calculate Interest and Close an Account. 
